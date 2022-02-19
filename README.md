@@ -1,1 +1,1 @@
-# myresources
+-存放资源
